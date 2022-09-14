@@ -2,7 +2,6 @@
 
 [![Linkedin: suryak](https://img.shields.io/badge/-suryak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surya-krishnamurthy/)](https://www.linkedin.com/in/surya-krishnamurthy/)
 [![GitHub suryak](https://img.shields.io/github/followers/SuryaThiru?label=follow&style=social)](https://github.com/SuryaThiru)
-<a href="https://sourcerer.io/suryathiru" target="_blank"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="20px" alt="Sourcerer"></a>
 <a itemprop="sameAs" content="https://orcid.org/0000-0002-6876-570X" href="https://orcid.org/0000-0002-6876-570X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_24x24.png" style="width:1em;margin-right:.5em;" height=20 alt="ORCID iD icon"></a>
 <a href="https://medium.com/@surya.thiru001" target="_blank"><img src="https://miro.medium.com/fit/c/56/56/1*6_fgYnisCa9V21mymySIvA.png" width=20 height=20></a>
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/surya-k?label=surya-k&style=social)
